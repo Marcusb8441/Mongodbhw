@@ -12,8 +12,8 @@ This query grabs movies after 2014 and with a higher rating than 9
 
 This query grabs the title, year, and runtime from the database and then displays them increasing by runtime starting at 200 minutes. After you run the query you can type "it" to show more movies.
 
-##Exclusions
-Both queries needed to not display the movie _id in which we needed to set that to 0
+## Exclusions
+Both queries needed to not display the movie id in which we needed to set that to 0
     Example - "_id": 0
 
 This query grabs the 
