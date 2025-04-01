@@ -1,6 +1,6 @@
 # Movie Database
 
-This project queries a movie database to retrieve important details such as movie ratings and release years. Below are examples of how the data is represented visually.
+This project queries a movie database, in MongoDB, to retrieve important details such as movie ratings and release years. Below are examples of how the data is represented visually.
 
 ## IMDB Ratings
 ![IMDB Rating](images/IMDB.png)
