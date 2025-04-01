@@ -16,6 +16,6 @@ This query grabs the title, year, and runtime from the database and then display
 Both queries needed to not display the movie id in which we needed to set that to 0
     Example - "_id": 0
 
-This query grabs the 
+
 ### Project Details:
 This project queries a movie database to get details such as the IMDB rating and the year of release. The images above show examples of the data.
